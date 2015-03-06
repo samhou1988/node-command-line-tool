@@ -1,0 +1,15 @@
+{
+  "name": "filesearch",
+  "version": "1.0.1",
+  "description": "search for files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "preferGlobal": true,
+  "bin": {
+    "filesearch": "index.js"
+  },
+  "author": "samhou1988@gmail.com",
+  "license": "ISC"
+}
